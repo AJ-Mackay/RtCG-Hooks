@@ -1,4 +1,4 @@
-import React, { useContext } from 'react';
+import React from 'react';
 
 import Card from '../UI/Card';
 import { useStore } from '../../hooks-store/store';
